@@ -17,3 +17,7 @@ The assignment is divided into the following sections:
 For Ipython notebook: (Refer to Neural-Networks-using-Numpy.ipynb file)
 
 For  the dataset: (Refer to mnist.pkl.gz file)
+
+## Jupyter Notebook Viewer
+If you are unable to view or load the jupyter IPython notebook via Github, please click on this [link](https://nbviewer.jupyter.org/github/ChaitanyaC22/Neural-Network-using-Numpy/blob/chai_main/Neural-Network-using-Numpy.ipynb).
+Thank you!
